@@ -1,0 +1,19 @@
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DTO\bin\Debug\DTO.dll
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DTO\bin\Debug\DTO.pdb
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DTO\bin\Debug\DTO.xml
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DTO\obj\Debug\DTO.vbprojResolveAssemblyReference.cache
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DTO\obj\Debug\DTO.Resources.resources
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DTO\obj\Debug\DTO.vbproj.GenerateResource.cache
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DTO\obj\Debug\DTO.vbproj.CoreCompileInputs.cache
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DTO\obj\Debug\DTO.dll
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DTO\obj\Debug\DTO.xml
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DTO\obj\Debug\DTO.pdb
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DTO\bin\Debug\DTO.dll
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DTO\bin\Debug\DTO.pdb
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DTO\bin\Debug\DTO.xml
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DTO\obj\Debug\DTO.vbprojResolveAssemblyReference.cache
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DTO\obj\Debug\DTO.Resources.resources
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DTO\obj\Debug\DTO.dll
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DTO\obj\Debug\DTO.xml
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DTO\obj\Debug\DTO.pdb

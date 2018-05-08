@@ -1,0 +1,43 @@
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DAL\bin\Debug\DAL.dll
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DAL\bin\Debug\DAL.pdb
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DAL\bin\Debug\DAL.xml
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DAL\bin\Debug\DTO.dll
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DAL\bin\Debug\DTO.pdb
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DAL\bin\Debug\DTO.xml
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DAL\obj\Debug\DAL.vbproj.CopyComplete
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DAL\obj\Debug\DAL.dll
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DAL\obj\Debug\DAL.xml
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\DAL\obj\Debug\DAL.pdb
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\DAL\bin\Debug\DAL.dll
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\DAL\bin\Debug\DAL.pdb
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\DAL\bin\Debug\DAL.xml
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\DAL\bin\Debug\DTO.dll
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\DAL\bin\Debug\DTO.pdb
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\DAL\bin\Debug\DTO.xml
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\DAL\obj\Debug\DAL.vbproj.CopyComplete
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\DAL\obj\Debug\DAL.dll
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\DAL\obj\Debug\DAL.xml
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\DAL\obj\Debug\DAL.pdb
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DAL\bin\Debug\DAL.dll
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DAL\bin\Debug\DAL.pdb
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DAL\bin\Debug\DAL.xml
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DAL\bin\Debug\DTO.dll
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DAL\bin\Debug\Utility.dll
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DAL\bin\Debug\DTO.pdb
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DAL\bin\Debug\DTO.xml
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DAL\bin\Debug\Utility.pdb
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DAL\bin\Debug\Utility.xml
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DAL\obj\Debug\DAL.dll
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DAL\obj\Debug\DAL.xml
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\DAL\obj\Debug\DAL.pdb

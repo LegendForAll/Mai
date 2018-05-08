@@ -1,0 +1,9 @@
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\Utility\bin\Debug\Utility.dll
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\Utility\bin\Debug\Utility.pdb
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\Utility\bin\Debug\Utility.xml
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\Utility\obj\Debug\Utility.vbprojResolveAssemblyReference.cache
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\Utility\obj\Debug\Utility.Resources.resources
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\Utility\obj\Debug\Utility.vbproj.GenerateResource.Cache
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\Utility\obj\Debug\Utility.dll
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\Utility\obj\Debug\Utility.xml
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\Utility\obj\Debug\Utility.pdb

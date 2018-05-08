@@ -1,0 +1,52 @@
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\BUS\bin\Debug\BUS.dll
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\BUS\bin\Debug\BUS.pdb
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\BUS\bin\Debug\BUS.xml
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\BUS\bin\Debug\DAL.dll
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\BUS\bin\Debug\DTO.dll
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\BUS\bin\Debug\DAL.pdb
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\BUS\bin\Debug\DAL.xml
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\BUS\bin\Debug\DTO.pdb
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\BUS\bin\Debug\DTO.xml
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\BUS\obj\Debug\BUS.vbprojResolveAssemblyReference.cache
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\BUS\obj\Debug\BUS.Resources.resources
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\BUS\obj\Debug\BUS.vbproj.GenerateResource.cache
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\BUS\obj\Debug\BUS.vbproj.CoreCompileInputs.cache
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\BUS\obj\Debug\BUS.vbproj.CopyComplete
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\BUS\obj\Debug\BUS.dll
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\BUS\obj\Debug\BUS.xml
+C:\Users\ThuViet\Downloads\Hoàng Mai\Lap The Doc Gia\BUS\obj\Debug\BUS.pdb
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\BUS\bin\Debug\BUS.dll
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\BUS\bin\Debug\BUS.pdb
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\BUS\bin\Debug\BUS.xml
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\BUS\bin\Debug\DAL.dll
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\BUS\bin\Debug\DTO.dll
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\BUS\bin\Debug\DAL.pdb
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\BUS\bin\Debug\DAL.xml
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\BUS\bin\Debug\DTO.pdb
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\BUS\bin\Debug\DTO.xml
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\BUS\obj\Debug\BUS.vbprojResolveAssemblyReference.cache
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\BUS\obj\Debug\BUS.Resources.resources
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\BUS\obj\Debug\BUS.vbproj.GenerateResource.cache
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\BUS\obj\Debug\BUS.vbproj.CoreCompileInputs.cache
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\BUS\obj\Debug\BUS.vbproj.CopyComplete
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\BUS\obj\Debug\BUS.dll
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\BUS\obj\Debug\BUS.xml
+C:\Users\ThuViet\Downloads\Hoàng Mai\NM CNPM\Lap The Doc Gia_BTTH02\BUS\obj\Debug\BUS.pdb
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\BUS\bin\Debug\BUS.dll
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\BUS\bin\Debug\BUS.pdb
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\BUS\bin\Debug\BUS.xml
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\BUS\bin\Debug\DAL.dll
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\BUS\bin\Debug\DTO.dll
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\BUS\bin\Debug\Utility.dll
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\BUS\bin\Debug\DAL.pdb
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\BUS\bin\Debug\DAL.xml
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\BUS\bin\Debug\DTO.pdb
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\BUS\bin\Debug\DTO.xml
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\BUS\bin\Debug\Utility.pdb
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\BUS\bin\Debug\Utility.xml
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\BUS\obj\Debug\BUS.vbprojResolveAssemblyReference.cache
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\BUS\obj\Debug\BUS.Resources.resources
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\BUS\obj\Debug\BUS.vbproj.GenerateResource.Cache
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\BUS\obj\Debug\BUS.dll
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\BUS\obj\Debug\BUS.xml
+C:\Users\HoThaiNgoc\Desktop\LapTheDocGia-master\BUS\obj\Debug\BUS.pdb
