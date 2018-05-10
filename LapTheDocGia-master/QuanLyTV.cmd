@@ -1,0 +1,1 @@
+SQLCMD -S DESKTOP-TKVIR2E -E -i QuanLyTV.sql
